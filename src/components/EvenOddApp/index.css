@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.app {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  text-align: center;
+  font-family: Roboto;
+  padding: 15px;
+  border-radius: 8px;
+}
+.heading {
+  color: #0f172a;
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+.heading2 {
+  color: #334155;
+}
+.button {
+  background-color: #ffffff;
+  color: #1e293b;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+}
+.para {
+  color: #1e293b;
+}
